@@ -5,6 +5,6 @@ Accepted at **CVPR 2026**.
 
 ---
 
-## 🚧 Code Status
+## Code Status
 
 🚧 Code coming soon
